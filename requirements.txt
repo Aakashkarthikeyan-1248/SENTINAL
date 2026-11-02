@@ -1,0 +1,17 @@
+# Core Computer Vision & AI
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+torch>=2.0.0
+numpy>=1.24.0
+
+# LLM & APIs
+google-genai>=0.1.1
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Cloud Backend (Supabase)
+supabase>=2.0.0
+
+# Web Dashboard
+streamlit>=1.30.0
+pillow>=10.0.0
